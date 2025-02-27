@@ -11,16 +11,31 @@
           <mxGeometry x="-78" y="-108" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ffEg2Sshfk9ABqHSaOCN-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-78" y="109" width="30" height="60" as="geometry" />
+          <mxGeometry x="-78" y="217" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ffEg2Sshfk9ABqHSaOCN-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-78" y="326" width="30" height="60" as="geometry" />
+        <mxCell id="ffEg2Sshfk9ABqHSaOCN-8" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2" y="-240.5" width="515" height="325" as="geometry" />
         </mxCell>
-        <mxCell id="ffEg2Sshfk9ABqHSaOCN-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-78" y="543" width="30" height="60" as="geometry" />
+        <mxCell id="ffEg2Sshfk9ABqHSaOCN-9" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2" y="84.5" width="515" height="325" as="geometry" />
         </mxCell>
-        <mxCell id="ffEg2Sshfk9ABqHSaOCN-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-78" y="760" width="30" height="60" as="geometry" />
+        <mxCell id="ffEg2Sshfk9ABqHSaOCN-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-78" y="542" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ffEg2Sshfk9ABqHSaOCN-12" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2" y="409.5" width="515" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="ffEg2Sshfk9ABqHSaOCN-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-78" y="867" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ffEg2Sshfk9ABqHSaOCN-14" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2" y="734.5" width="515" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="ffEg2Sshfk9ABqHSaOCN-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-78" y="1192" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ffEg2Sshfk9ABqHSaOCN-16" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2" y="1059.5" width="515" height="325" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
