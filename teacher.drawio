@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-21" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="26" y="-152" width="660" height="550" as="geometry" />
+        </mxCell>
         <mxCell id="MM4gano3Ub4xXdJ6Fotc-1" value="Система управления вика" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277" y="-79" width="70" height="80" as="geometry" />
         </mxCell>
@@ -23,6 +26,9 @@
           <mxGeometry x="463" y="51" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MM4gano3Ub4xXdJ6Fotc-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=diamond;endFill=1;" edge="1" parent="1" source="MM4gano3Ub4xXdJ6Fotc-6" target="MM4gano3Ub4xXdJ6Fotc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=open;endFill=0;" edge="1" parent="1" source="MM4gano3Ub4xXdJ6Fotc-6" target="MM4gano3Ub4xXdJ6Fotc-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MM4gano3Ub4xXdJ6Fotc-6" value="Старосты групп" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -57,6 +63,15 @@
             <mxPoint x="-164" y="271" as="sourcePoint" />
             <mxPoint x="-4" y="271" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-19" value="Форрмы открытык пользователю" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="151" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.51;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=open;endFill=0;" edge="1" parent="1" source="MM4gano3Ub4xXdJ6Fotc-5" target="MM4gano3Ub4xXdJ6Fotc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-22" value="Вика" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="-138" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
