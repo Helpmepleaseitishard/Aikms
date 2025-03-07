@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="26.1.0">
   <diagram name="Page-1" id="e4ns-jhPxyJS8azkhmI9">
-    <mxGraphModel>
+    <mxGraphModel dx="2234" dy="1176" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-1" value="Система управления вика" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="-79" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-2" value="Entity Object" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="18" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-3" value="Boundary Object" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="-76" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-4" value="Банк вопросов" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="59" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=diamond;endFill=1;" edge="1" parent="1" source="MM4gano3Ub4xXdJ6Fotc-5" target="MM4gano3Ub4xXdJ6Fotc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-5" value="Формы" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="463" y="51" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=diamond;endFill=1;" edge="1" parent="1" source="MM4gano3Ub4xXdJ6Fotc-6" target="MM4gano3Ub4xXdJ6Fotc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-6" value="Старосты групп" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="49" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-7" value="Расписание" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="59" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="MM4gano3Ub4xXdJ6Fotc-4" target="MM4gano3Ub4xXdJ6Fotc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.129;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="MM4gano3Ub4xXdJ6Fotc-7" target="MM4gano3Ub4xXdJ6Fotc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="MM4gano3Ub4xXdJ6Fotc-12" target="MM4gano3Ub4xXdJ6Fotc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-12" value="Расписание пересдач" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="204" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-13" value="Расписание занятий" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="207" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=diamond;endFill=0;" edge="1" parent="1" source="MM4gano3Ub4xXdJ6Fotc-13" target="MM4gano3Ub4xXdJ6Fotc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-16" value="Рассылки старостам" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="197" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4gano3Ub4xXdJ6Fotc-17" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;fontSize=12;curved=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-164" y="271" as="sourcePoint" />
+            <mxPoint x="-4" y="271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
