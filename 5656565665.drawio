@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="26.1.1">
   <diagram name="Page-1" id="RKDTvaQ0LE9rnX653l0A">
-    <mxGraphModel dx="989" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,6 +208,58 @@
         </mxCell>
         <mxCell id="4vtOYGY8kwyqNaTi0m9n-44" value="Диаграмма последовательности №2" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeWidth=2;width=160;height=40;" vertex="1" parent="1">
           <mxGeometry x="1580" y="80" width="690" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-46" value="Студент" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-47" value="Диалог в ВК с Викой" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="850" y="570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-49" value="Вика" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-50" value="" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;strokeWidth=2;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4vtOYGY8kwyqNaTi0m9n-46" target="4vtOYGY8kwyqNaTi0m9n-47">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="750" y="589.58" as="sourcePoint" />
+            <mxPoint x="830" y="589.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-51" value="" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;strokeWidth=2;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4vtOYGY8kwyqNaTi0m9n-49" target="4vtOYGY8kwyqNaTi0m9n-47">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="835" y="860" as="sourcePoint" />
+            <mxPoint x="965" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-53" value="1. Задать вопрос" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="-0.1486" y="51" width="80" relative="1" as="geometry">
+            <mxPoint x="720" y="790" as="sourcePoint" />
+            <mxPoint x="800" y="640" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-54" value="2. Отправить вопрос на сервер" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="0.3028" y="73" width="80" relative="1" as="geometry">
+            <mxPoint x="1000" y="650" as="sourcePoint" />
+            <mxPoint x="1070" y="780" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-55" value="&lt;div&gt;3. Отправить&lt;/div&gt;&lt;div&gt;ответ&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="0.1743" y="56" width="80" relative="1" as="geometry">
+            <mxPoint x="1040" y="790" as="sourcePoint" />
+            <mxPoint x="970" y="660" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-56" value="&lt;div&gt;4. Прочитать&lt;/div&gt;&lt;div&gt;ответ&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="-0.1486" y="51" width="80" relative="1" as="geometry">
+            <mxPoint x="840" y="660" as="sourcePoint" />
+            <mxPoint x="770" y="800" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-57" value="Диаграмма последовательности №1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=170;height=40;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="540" width="540" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
