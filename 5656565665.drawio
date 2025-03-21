@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="26.1.1">
   <diagram name="Page-1" id="RKDTvaQ0LE9rnX653l0A">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-1" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-2" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="410" y="250" as="sourcePoint" />
+            <mxPoint x="490" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-5" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="330" as="sourcePoint" />
+            <mxPoint x="410" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-6" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=classic;curved=0;rounded=0;strokeWidth=2;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="410" y="290" as="sourcePoint" />
+            <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-7" value="Студент" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-8" value="Диалог в ВК с Викой" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="930" y="160" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="4vtOYGY8kwyqNaTi0m9n-8">
+          <mxGeometry x="45" y="110" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-9" value="Вика" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="160" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="4vtOYGY8kwyqNaTi0m9n-9">
+          <mxGeometry x="45" y="120" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-11" value="1. Задать вопрос" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" edge="1" parent="1" target="4vtOYGY8kwyqNaTi0m9n-8">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="750" y="270" as="sourcePoint" />
+            <mxPoint x="830" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-13" value="2. Задать вопрос" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" edge="1" parent="1" source="4vtOYGY8kwyqNaTi0m9n-12">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1000" y="280" as="sourcePoint" />
+            <mxPoint x="1210" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-15" value="3. Отправить ответ" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;strokeWidth=2;" edge="1" parent="1" target="4vtOYGY8kwyqNaTi0m9n-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="309.76" as="sourcePoint" />
+            <mxPoint x="1130" y="309.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-17" value="4. Прочитать ответ" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="975" y="350" as="sourcePoint" />
+            <mxPoint x="750" y="350.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vtOYGY8kwyqNaTi0m9n-18" value="Диаграмма последовательности №1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=170;height=40;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="110" width="640" height="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
