@@ -467,13 +467,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-1" value="Ученик" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-1" value="Родитель" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="25" y="574" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-2" value="Куратор кружка" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-2" value="Воспитатель" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="205" y="304" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-3" value="Кружок" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-3" value="Система Питания" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="385" y="574" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MX5JRlnQtL4jDZuG_2KD-4" value="" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;strokeWidth=2;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="MX5JRlnQtL4jDZuG_2KD-1" target="MX5JRlnQtL4jDZuG_2KD-2" edge="1">
@@ -488,32 +488,32 @@
             <mxPoint x="320" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-6" value="&lt;div&gt;1. Запрос информации&lt;/div&gt;&lt;div&gt;о кружках&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-6" value="&lt;div&gt;6. Запрос на&amp;nbsp;&lt;/div&gt;&lt;div&gt;изменение заказа&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="-0.1765" y="60" width="80" relative="1" as="geometry">
             <mxPoint x="75" y="524" as="sourcePoint" />
             <mxPoint x="155" y="374" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-7" value="2. Запрос информации о кружках" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-7" value="7. Запрос на изменение заказа" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="0.367" y="82" width="80" relative="1" as="geometry">
             <mxPoint x="355" y="384" as="sourcePoint" />
             <mxPoint x="425" y="514" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-8" value="&lt;div&gt;3. Список&amp;nbsp;&lt;/div&gt;&lt;div&gt;доступных&amp;nbsp;&lt;/div&gt;&lt;div&gt;кружков&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
-          <mxGeometry x="-0.2642" y="50" width="80" relative="1" as="geometry">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-8" value="&lt;div&gt;8. Подтверждение&amp;nbsp;&lt;/div&gt;&lt;div&gt;изменения заказа&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
+          <mxGeometry x="-0.1679" y="63" width="80" relative="1" as="geometry">
             <mxPoint x="395" y="524" as="sourcePoint" />
             <mxPoint x="325" y="394" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-9" value="&lt;div&gt;4. Информация&amp;nbsp;&lt;/div&gt;&lt;div&gt;о кружках&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
-          <mxGeometry x="0.0286" y="63" width="80" relative="1" as="geometry">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-9" value="&lt;div&gt;9. Уведомление&amp;nbsp;&lt;/div&gt;&lt;div&gt;о подтверждении&amp;nbsp;&lt;/div&gt;&lt;div&gt;изменения&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
+          <mxGeometry x="0.24" y="65" width="80" relative="1" as="geometry">
             <mxPoint x="195" y="394" as="sourcePoint" />
             <mxPoint x="125" y="534" as="targetPoint" />
-            <mxPoint y="-1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MX5JRlnQtL4jDZuG_2KD-10" value="Диаграмма коммуникации" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;strokeWidth=2;" parent="1" vertex="1">
