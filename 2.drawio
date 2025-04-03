@@ -505,60 +505,60 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yAZ8D3PN9nSXLNmpfzAs" name="Page-3">
-    <mxGraphModel dx="2433" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2517" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-1" value="Клиент" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-1" value="Клиент" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="25" y="574" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-2" value="Работник станции" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-2" value="Работник станции" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="205" y="304" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-3" value="Система управления" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-3" value="Система управления" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="385" y="574" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-4" value="" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;strokeWidth=2;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MX5JRlnQtL4jDZuG_2KD-1" target="MX5JRlnQtL4jDZuG_2KD-2">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-4" value="" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;strokeWidth=2;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="MX5JRlnQtL4jDZuG_2KD-1" target="MX5JRlnQtL4jDZuG_2KD-2" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="105" y="323.58000000000004" as="sourcePoint" />
             <mxPoint x="185" y="323.58000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-5" value="" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;strokeWidth=2;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MX5JRlnQtL4jDZuG_2KD-3" target="MX5JRlnQtL4jDZuG_2KD-2">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-5" value="" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;strokeWidth=2;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="MX5JRlnQtL4jDZuG_2KD-3" target="MX5JRlnQtL4jDZuG_2KD-2" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="190" y="594" as="sourcePoint" />
             <mxPoint x="320" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-6" value="1. Выбор типа топлива" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-6" value="9. Оплата за заправку" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="-0.1765" y="60" width="80" relative="1" as="geometry">
             <mxPoint x="75" y="524" as="sourcePoint" />
             <mxPoint x="155" y="374" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-7" value="2. Инициация процесса заправки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-7" value="10. Передать оплату за заправку" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="0.367" y="82" width="80" relative="1" as="geometry">
             <mxPoint x="355" y="384" as="sourcePoint" />
             <mxPoint x="425" y="514" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-8" value="&lt;div&gt;3. Возврат&amp;nbsp;&lt;/div&gt;&lt;div&gt;стоимости&lt;/div&gt;&lt;div&gt;&amp;nbsp;заправки&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" edge="1" parent="1">
-          <mxGeometry x="0.1743" y="56" width="80" relative="1" as="geometry">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-8" value="&lt;div&gt;11. Подтверждение&amp;nbsp;&lt;/div&gt;&lt;div&gt;успешной&amp;nbsp;&lt;/div&gt;&lt;div&gt;оплаты&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
+          <mxGeometry x="-0.2872" y="68" width="80" relative="1" as="geometry">
             <mxPoint x="395" y="524" as="sourcePoint" />
             <mxPoint x="325" y="394" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-9" value="&lt;div&gt;4. Сообщение о&lt;/div&gt;&lt;div&gt;&amp;nbsp;стоимости&amp;nbsp;&lt;/div&gt;&lt;div&gt;заправки&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-9" value="&lt;div&gt;12. Завершение&amp;nbsp;&lt;/div&gt;&lt;div&gt;процесса&amp;nbsp;&lt;/div&gt;&lt;div&gt;заправки&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="0.0286" y="63" width="80" relative="1" as="geometry">
             <mxPoint x="195" y="394" as="sourcePoint" />
             <mxPoint x="125" y="534" as="targetPoint" />
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MX5JRlnQtL4jDZuG_2KD-10" value="Диаграмма коммуникации" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="MX5JRlnQtL4jDZuG_2KD-10" value="Диаграмма коммуникации" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-45" y="284" width="640" height="350" as="geometry" />
         </mxCell>
       </root>
