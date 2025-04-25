@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="26.2.14" pages="3">
   <diagram name="Page-1" id="RKDTvaQ0LE9rnX653l0A">
-    <mxGraphModel dx="703" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,21 +34,22 @@
         <mxCell id="4vtOYGY8kwyqNaTi0m9n-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="4vtOYGY8kwyqNaTi0m9n-24" vertex="1">
           <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DaDwhZEhizH2eBtOXTgz-14" value="13. Обновление &lt;br&gt;базы данных &lt;br&gt;о транзакциях" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="4vtOYGY8kwyqNaTi0m9n-24" target="4vtOYGY8kwyqNaTi0m9n-37" edge="1">
-          <mxGeometry x="0.5385" y="51" width="80" relative="1" as="geometry">
+        <mxCell id="DaDwhZEhizH2eBtOXTgz-14" value="13. Обновление &lt;br&gt;базы данных &lt;br&gt;о транзакциях" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" parent="4vtOYGY8kwyqNaTi0m9n-24" target="4vtOYGY8kwyqNaTi0m9n-37" edge="1" source="4vtOYGY8kwyqNaTi0m9n-37">
+          <mxGeometry x="0.5101" y="-50" width="80" relative="1" as="geometry">
             <mxPoint x="50" y="320" as="sourcePoint" />
             <mxPoint x="55" y="335" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="50" y="320" />
-              <mxPoint x="70" y="320" />
+              <mxPoint x="50" y="340" />
+              <mxPoint x="60" y="340" />
               <mxPoint x="70" y="340" />
-              <mxPoint x="70" y="350" />
+              <mxPoint x="80" y="340" />
+              <mxPoint x="80" y="380" />
             </Array>
-            <mxPoint x="50" y="-41" as="offset" />
+            <mxPoint x="50" y="50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4vtOYGY8kwyqNaTi0m9n-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="4vtOYGY8kwyqNaTi0m9n-24" vertex="1">
-          <mxGeometry x="45" y="340" width="10" height="25" as="geometry" />
+          <mxGeometry x="45" y="340" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaDwhZEhizH2eBtOXTgz-1" value="1. Запрос доступных типов топлива" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -88,7 +89,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DaDwhZEhizH2eBtOXTgz-7" value="5. Запрос стоимости заправки" style="html=1;verticalAlign=top;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="1" source="4vtOYGY8kwyqNaTi0m9n-25" target="4vtOYGY8kwyqNaTi0m9n-31" edge="1">
+        <mxCell id="DaDwhZEhizH2eBtOXTgz-7" value="5. Запрос стоимости заправки" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" parent="1" source="4vtOYGY8kwyqNaTi0m9n-25" target="4vtOYGY8kwyqNaTi0m9n-31" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1170" y="184.5" as="sourcePoint" />
             <mxPoint x="950" y="184.5" as="targetPoint" />
@@ -98,7 +99,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DaDwhZEhizH2eBtOXTgz-8" value="6. Возврат стоимости заправки" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" parent="1" source="4vtOYGY8kwyqNaTi0m9n-31" target="4vtOYGY8kwyqNaTi0m9n-25" edge="1">
+        <mxCell id="DaDwhZEhizH2eBtOXTgz-8" value="6. Возврат стоимости заправки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;endFill=1;" parent="1" source="4vtOYGY8kwyqNaTi0m9n-31" target="4vtOYGY8kwyqNaTi0m9n-25" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1145" y="304.5" as="sourcePoint" />
             <mxPoint x="935" y="304.5" as="targetPoint" />
@@ -191,13 +192,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1410" y="700" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1440" y="700" />
+              <mxPoint x="1410" y="720" />
+              <mxPoint x="1440" y="720" />
               <mxPoint x="1440" y="750" />
             </Array>
             <mxPoint x="1415" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRZFacHZC7VNnUp93jjn-12" value="14. Написание комментария к работе" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="yRZFacHZC7VNnUp93jjn-12" value="14.Отправка комментария к работе" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="725" y="540" as="sourcePoint" />
             <mxPoint x="1175" y="540" as="targetPoint" />
@@ -223,13 +225,18 @@
             <mxPoint x="1530" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QgWzjLSHat5g8UPZbIZB-1" value="Событие 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="yRZFacHZC7VNnUp93jjn-14">
+          <mxGeometry x="0.0344" y="-5" relative="1" as="geometry">
+            <mxPoint x="-441" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yRZFacHZC7VNnUp93jjn-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="800" as="sourcePoint" />
             <mxPoint x="1530" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRZFacHZC7VNnUp93jjn-16" value="&lt;div&gt;15. Переадресация&amp;nbsp;&lt;/div&gt;&lt;div&gt;комментария техподдержке&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" parent="1" source="yRZFacHZC7VNnUp93jjn-7" target="yRZFacHZC7VNnUp93jjn-9" edge="1">
+        <mxCell id="yRZFacHZC7VNnUp93jjn-16" value="&lt;div&gt;15. Переадресация&amp;nbsp;&lt;/div&gt;&lt;div&gt;комментария техподдержке&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;endFill=1;" parent="1" source="yRZFacHZC7VNnUp93jjn-7" target="yRZFacHZC7VNnUp93jjn-9" edge="1">
           <mxGeometry x="-0.0455" width="80" relative="1" as="geometry">
             <mxPoint x="1185" y="560" as="sourcePoint" />
             <mxPoint x="1405" y="560" as="targetPoint" />
@@ -239,7 +246,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRZFacHZC7VNnUp93jjn-17" value="16. Отсыл комментария обратно" style="html=1;verticalAlign=top;endArrow=block;curved=0;rounded=0;strokeWidth=2;endFill=1;" parent="1" edge="1">
+        <mxCell id="yRZFacHZC7VNnUp93jjn-17" value="16. Отсыл комментария обратно" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;endFill=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1405" y="620" as="sourcePoint" />
             <mxPoint x="1185" y="620" as="targetPoint" />
@@ -258,7 +265,7 @@
         <mxCell id="yRZFacHZC7VNnUp93jjn-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1405" y="840" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yRZFacHZC7VNnUp93jjn-21" value="20. Связь с клиентом для исправления проблемы" style="html=1;verticalAlign=top;endArrow=block;curved=0;rounded=0;strokeWidth=2;endFill=1;" parent="1" target="yRZFacHZC7VNnUp93jjn-18" edge="1">
+        <mxCell id="yRZFacHZC7VNnUp93jjn-21" value="20. Связь с клиентом для исправления проблемы" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;endFill=0;dashed=1;" parent="1" target="yRZFacHZC7VNnUp93jjn-18" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1405" y="920" as="sourcePoint" />
             <mxPoint x="1185" y="920" as="targetPoint" />
@@ -284,6 +291,11 @@
             <mxPoint x="1405" y="899" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgWzjLSHat5g8UPZbIZB-2" value="Событие 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="680" as="geometry">
+            <mxPoint x="-12" y="109" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
