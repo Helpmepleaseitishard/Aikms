@@ -650,7 +650,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vuGa5sZZ2P9nzirgJzsH-14" value="Technical support" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1390" y="537" width="200" height="230" as="geometry" />
+          <mxGeometry x="-1390" y="537" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="vuGa5sZZ2P9nzirgJzsH-15" value="&lt;div&gt;-&amp;nbsp;the_database_of_user names : The management system&lt;div&gt;&lt;div&gt;&lt;div&gt;- name : String&lt;/div&gt;&lt;div&gt;- status : The management system&lt;/div&gt;&lt;div&gt;&lt;div&gt; - the feedback : The management system&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vuGa5sZZ2P9nzirgJzsH-14" vertex="1">
           <mxGeometry y="26" width="200" height="114" as="geometry" />
@@ -658,8 +658,8 @@
         <mxCell id="vuGa5sZZ2P9nzirgJzsH-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="vuGa5sZZ2P9nzirgJzsH-14" vertex="1">
           <mxGeometry y="140" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="vuGa5sZZ2P9nzirgJzsH-17" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;+Get_a_feedback( the feedback : String)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+Study_the_problem()&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;+Send_a_feedback( the feedback : String)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vuGa5sZZ2P9nzirgJzsH-14" vertex="1">
-          <mxGeometry y="148" width="200" height="82" as="geometry" />
+        <mxCell id="vuGa5sZZ2P9nzirgJzsH-17" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;+Get_a_feedback( the feedback : String)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+Study_the_problem( the feedback : String)&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;+Send_a_feedback( the feedback : String)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vuGa5sZZ2P9nzirgJzsH-14" vertex="1">
+          <mxGeometry y="148" width="200" height="102" as="geometry" />
         </mxCell>
         <mxCell id="vuGa5sZZ2P9nzirgJzsH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;endArrow=none;endFill=0;startFill=0;" parent="1" source="vuGa5sZZ2P9nzirgJzsH-10" target="vuGa5sZZ2P9nzirgJzsH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
