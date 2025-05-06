@@ -1473,7 +1473,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hap94bdMeTc6BBZ9tOyQ-12" value="Gas station" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hap94bdMeTc6BBZ9tOyQ-12" value="Gas_station" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1650" y="20" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Hap94bdMeTc6BBZ9tOyQ-13" value="&lt;div&gt;&lt;div&gt;- workers_base : StringList&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;- user_data_base : StringList&lt;/div&gt;&lt;div&gt;- personal_work_base : StringList&lt;/div&gt;&lt;div&gt;- financial_story  : StringList&lt;/div&gt;&lt;div&gt;- opening_hours : StringList&lt;/div&gt;&lt;div&gt;- Information_about_the_station : StringList&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Hap94bdMeTc6BBZ9tOyQ-12">
