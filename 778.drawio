@@ -1326,44 +1326,44 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w6dJC4lxtXpwc8_yqf-X" name="Page-5">
-    <mxGraphModel dx="2606" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2609" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uYnR5jOR3iI8LDlVJRsr-1" value="Система управления" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="340" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="uYnR5jOR3iI8LDlVJRsr-2" value="&lt;div&gt;- база_данных_пользователей: String&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;- виды_топлива_и_цены : String&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-1" vertex="1">
+        <mxCell id="uYnR5jOR3iI8LDlVJRsr-2" value="&lt;div&gt;-&amp;nbsp;user_data_base : String&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;- types_of_fuel_and_prices: String&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-1" vertex="1">
           <mxGeometry y="26" width="200" height="64" as="geometry" />
         </mxCell>
         <mxCell id="uYnR5jOR3iI8LDlVJRsr-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="uYnR5jOR3iI8LDlVJRsr-1" vertex="1">
           <mxGeometry y="90" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="uYnR5jOR3iI8LDlVJRsr-4" value="&lt;div&gt;&lt;div&gt;+Отправитьтопливо()&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+Принятьоплату()&lt;/div&gt;&lt;div&gt;+Обновитьбазу()&lt;/div&gt;&lt;div&gt;&lt;div&gt;+Получитьотзыв()&lt;/div&gt;&lt;div&gt;+Отправитьотзывподдержке()&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-1" vertex="1">
+        <mxCell id="uYnR5jOR3iI8LDlVJRsr-4" value="+Send fuel()&lt;br&gt;+Accept payment()&lt;br&gt;+Update database()&lt;br&gt;+Get feedback()&lt;br&gt;+Send feedback to support()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-1" vertex="1">
           <mxGeometry y="98" width="200" height="82" as="geometry" />
         </mxCell>
         <mxCell id="uYnR5jOR3iI8LDlVJRsr-28" value="Работник станции" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1390" y="340" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="uYnR5jOR3iI8LDlVJRsr-29" value="&lt;div&gt;- имя : String&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;- виды_топлива_и_цены : Система управления&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-28" vertex="1">
+        <mxCell id="uYnR5jOR3iI8LDlVJRsr-29" value="&lt;div&gt;- name : String&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;- user_data_base: String&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-28" vertex="1">
           <mxGeometry y="26" width="200" height="64" as="geometry" />
         </mxCell>
         <mxCell id="uYnR5jOR3iI8LDlVJRsr-30" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="uYnR5jOR3iI8LDlVJRsr-28" vertex="1">
           <mxGeometry y="90" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="uYnR5jOR3iI8LDlVJRsr-31" value="&lt;div&gt;&lt;div&gt;+Запроситьтопливо()&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+Отправитьтопливо()&lt;/div&gt;&lt;div&gt;+Принятьоплату()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-28" vertex="1">
+        <mxCell id="uYnR5jOR3iI8LDlVJRsr-31" value="+Request fuel()&lt;br&gt;+Send fuel()&lt;br&gt;+Accept payment()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-28" vertex="1">
           <mxGeometry y="98" width="200" height="82" as="geometry" />
         </mxCell>
         <mxCell id="uYnR5jOR3iI8LDlVJRsr-32" value="Клиент" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1690" y="340" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="uYnR5jOR3iI8LDlVJRsr-33" value="&lt;div&gt;- имя : String&lt;/div&gt;&lt;div&gt;&lt;div&gt;- банк_карта : String&lt;/div&gt;&lt;div&gt;&lt;div&gt;- нужное_топливо : Работник станции&lt;/div&gt;&lt;div&gt;&lt;div&gt;- проблема : String&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-32" vertex="1">
+        <mxCell id="uYnR5jOR3iI8LDlVJRsr-33" value="&lt;div&gt;- name : String&lt;/div&gt;&lt;div&gt;&lt;div&gt;- bank_card : String&lt;/div&gt;&lt;div&gt;&lt;div&gt;- needed_fuel : String&lt;/div&gt;&lt;div&gt;&lt;div&gt;- the problem : String&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-32" vertex="1">
           <mxGeometry y="26" width="200" height="64" as="geometry" />
         </mxCell>
         <mxCell id="uYnR5jOR3iI8LDlVJRsr-34" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="uYnR5jOR3iI8LDlVJRsr-32" vertex="1">
           <mxGeometry y="90" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="uYnR5jOR3iI8LDlVJRsr-35" value="&lt;div&gt;+Запроситьтопливо()&lt;/div&gt;&lt;div&gt;&lt;div&gt;+Выбратьтопливо()&lt;/div&gt;&lt;div&gt;+Оплатить()&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+Оставитьотзыв()&lt;/div&gt;&lt;div&gt;&lt;div&gt;+Описатьпроблему()&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-32" vertex="1">
+        <mxCell id="uYnR5jOR3iI8LDlVJRsr-35" value="+Request fuel()&lt;br&gt;+Select fuel()&lt;br&gt;+Pay()&lt;br&gt;+Leave a review()&lt;br&gt;+Describe the problem()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-32" vertex="1">
           <mxGeometry y="98" width="200" height="82" as="geometry" />
         </mxCell>
         <mxCell id="ZrqxGP-XfQZCkrreZgaY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;endArrow=open;endFill=0;startArrow=diamondThin;startFill=0;" parent="1" target="uYnR5jOR3iI8LDlVJRsr-35" edge="1">
@@ -1379,13 +1379,13 @@
         <mxCell id="uYnR5jOR3iI8LDlVJRsr-37" value="Служба поддержки" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1690" y="600" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="uYnR5jOR3iI8LDlVJRsr-38" value="&lt;div&gt;- проблема : Клиент&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;- база_данных_пользователей: Система управления&lt;div&gt;&lt;div&gt;- имя : String&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-37" vertex="1">
+        <mxCell id="uYnR5jOR3iI8LDlVJRsr-38" value="&lt;div&gt;- the problem : String&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;-&amp;nbsp;user_data_base : String&lt;div&gt;&lt;div&gt;- name : String&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-37" vertex="1">
           <mxGeometry y="26" width="200" height="64" as="geometry" />
         </mxCell>
         <mxCell id="uYnR5jOR3iI8LDlVJRsr-39" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="uYnR5jOR3iI8LDlVJRsr-37" vertex="1">
           <mxGeometry y="90" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="uYnR5jOR3iI8LDlVJRsr-40" value="&lt;div&gt;+Принятьотзыв()&lt;/div&gt;&lt;div&gt;+Изучитьпроблему()&lt;/div&gt;&lt;div&gt;+Отправитьотзывобратно()&lt;/div&gt;&lt;div&gt;&lt;div&gt;+Связатьсясклиентом()&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-37" vertex="1">
+        <mxCell id="uYnR5jOR3iI8LDlVJRsr-40" value="+Accept feedback()&lt;br&gt;+Investigate the problem()&lt;br&gt;+Send feedback back()&lt;br&gt;+Contact the customer()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="uYnR5jOR3iI8LDlVJRsr-37" vertex="1">
           <mxGeometry y="98" width="200" height="82" as="geometry" />
         </mxCell>
         <mxCell id="scFysH1Fu-KtMgPlM7lw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;endArrow=open;endFill=0;" parent="1" source="uYnR5jOR3iI8LDlVJRsr-33" target="uYnR5jOR3iI8LDlVJRsr-29" edge="1">
