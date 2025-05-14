@@ -891,7 +891,7 @@
         <mxCell id="UUfE-T6iyeoH59N1_p4Y-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="UUfE-T6iyeoH59N1_p4Y-2" vertex="1">
           <mxGeometry x="45" y="90" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="UUfE-T6iyeoH59N1_p4Y-4" value="Поставщик" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="UUfE-T6iyeoH59N1_p4Y-4" value="Администратор" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="90" width="100" height="840" as="geometry" />
         </mxCell>
         <mxCell id="UUfE-T6iyeoH59N1_p4Y-5" value="Система управления" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -940,7 +940,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UUfE-T6iyeoH59N1_p4Y-13" value="1. Запрос на поставку" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="1" source="UUfE-T6iyeoH59N1_p4Y-3" target="UUfE-T6iyeoH59N1_p4Y-19" edge="1">
+        <mxCell id="UUfE-T6iyeoH59N1_p4Y-13" value="1. Сделать заказ" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="1" source="UUfE-T6iyeoH59N1_p4Y-3" target="UUfE-T6iyeoH59N1_p4Y-19" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="185" y="190" as="sourcePoint" />
             <mxPoint x="410" y="180" as="targetPoint" />
