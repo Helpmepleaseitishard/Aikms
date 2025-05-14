@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="27.0.5">
   <diagram name="Page-1" id="zsobwgZf9YgX_Q15lEmu">
-    <mxGraphModel dx="1553" dy="976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2456" dy="979" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,8 +218,10 @@
         <mxCell id="OTiWlsEHzldlyoB6G9DZ-18" value="&quot;extend&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="331.5" y="524" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OTiWlsEHzldlyoB6G9DZ-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;fontColor=#000000;" edge="1" parent="1" source="OTiWlsEHzldlyoB6G9DZ-20" target="OTiWlsEHzldlyoB6G9DZ-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OTiWlsEHzldlyoB6G9DZ-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTiWlsEHzldlyoB6G9DZ-21" target="OTiWlsEHzldlyoB6G9DZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="154" y="377" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OTiWlsEHzldlyoB6G9DZ-20" value="Проверка существования аккаунта" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="27" y="303" width="120" height="80" as="geometry" />
