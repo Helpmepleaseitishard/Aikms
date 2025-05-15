@@ -189,7 +189,7 @@
           <mxGeometry x="80" y="180" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IRYZ0sT8gNsl7cPbmyX3-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Support_Service&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="380" y="180" width="140" height="60" as="geometry" />
+          <mxGeometry x="380" y="180" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="HMwm3SfZq9qYr08OlT3F-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;The_management_system&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="180" width="160" height="60" as="geometry" />
