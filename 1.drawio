@@ -138,7 +138,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0CffvT9EPTYHZLpoBLyU-66" value="&lt;div&gt;Взять&amp;nbsp;&lt;/div&gt;&lt;div&gt;ложку&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="601" y="560" width="74" height="46" as="geometry" />
+          <mxGeometry x="597" y="561.5" width="74" height="46" as="geometry" />
         </mxCell>
         <mxCell id="0CffvT9EPTYHZLpoBLyU-75" value="&lt;span style=&quot;&quot;&gt;&quot;include&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="637.5" y="439" width="60" height="30" as="geometry" />
