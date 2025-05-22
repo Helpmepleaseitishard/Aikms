@@ -158,13 +158,13 @@
         <mxCell id="snMuEG4AN3tWTzpnFrul-22" value="Вход в аккаунт" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1200" width="140" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="snMuEG4AN3tWTzpnFrul-23" value="Отправление предложения об отзыве" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="snMuEG4AN3tWTzpnFrul-22" vertex="1">
+        <mxCell id="snMuEG4AN3tWTzpnFrul-23" value="Вход в аккаунт" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="snMuEG4AN3tWTzpnFrul-22" vertex="1">
           <mxGeometry y="30" width="140" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="snMuEG4AN3tWTzpnFrul-24" value="Доставка заказа прекращается" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="snMuEG4AN3tWTzpnFrul-22" vertex="1">
+        <mxCell id="snMuEG4AN3tWTzpnFrul-24" value="Получение доступа к аккаунту" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="snMuEG4AN3tWTzpnFrul-22" vertex="1">
           <mxGeometry y="76" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="snMuEG4AN3tWTzpnFrul-25" value="Заказ доставлен" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="snMuEG4AN3tWTzpnFrul-22" vertex="1">
+        <mxCell id="snMuEG4AN3tWTzpnFrul-25" value="Аккаунт открыт" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="snMuEG4AN3tWTzpnFrul-22" vertex="1">
           <mxGeometry y="106" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="snMuEG4AN3tWTzpnFrul-27" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="snMuEG4AN3tWTzpnFrul-28" target="snMuEG4AN3tWTzpnFrul-1" edge="1">
@@ -174,16 +174,16 @@
           <mxGeometry x="555" y="150" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="snMuEG4AN3tWTzpnFrul-29" value="Создание аккаунта" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="685" y="684" width="140" height="120" as="geometry" />
+          <mxGeometry x="685" y="674" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="snMuEG4AN3tWTzpnFrul-30" value="Пользователя нет" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="snMuEG4AN3tWTzpnFrul-29" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="snMuEG4AN3tWTzpnFrul-31" value="Переход на создание аккаунта" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="snMuEG4AN3tWTzpnFrul-29" vertex="1">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+          <mxGeometry y="60" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="snMuEG4AN3tWTzpnFrul-32" value="Заказ отменён" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="snMuEG4AN3tWTzpnFrul-29" vertex="1">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        <mxCell id="snMuEG4AN3tWTzpnFrul-32" value="Начать создание аккаунта" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="snMuEG4AN3tWTzpnFrul-29" vertex="1">
+          <mxGeometry y="100" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="snMuEG4AN3tWTzpnFrul-33" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="snMuEG4AN3tWTzpnFrul-3" target="snMuEG4AN3tWTzpnFrul-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -213,23 +213,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="snMuEG4AN3tWTzpnFrul-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="snMuEG4AN3tWTzpnFrul-15" target="snMuEG4AN3tWTzpnFrul-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="snMuEG4AN3tWTzpnFrul-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="snMuEG4AN3tWTzpnFrul-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="729" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cTLbplqrmGbM2UQjaj6I-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="555" y="1370" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cTLbplqrmGbM2UQjaj6I-21" value="Регистрация аккаунта" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="685" y="840" width="140" height="139" as="geometry" />
+          <mxGeometry x="685" y="840" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="cTLbplqrmGbM2UQjaj6I-22" value="Инициализация приложения" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-21">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        <mxCell id="cTLbplqrmGbM2UQjaj6I-22" value="Начало регистрации" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-21">
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cTLbplqrmGbM2UQjaj6I-23" value="Загрузка интерфейса" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-21">
-          <mxGeometry y="60" width="140" height="49" as="geometry" />
+        <mxCell id="cTLbplqrmGbM2UQjaj6I-23" value="Зарегистрировать логин" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-21">
+          <mxGeometry y="50" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="cTLbplqrmGbM2UQjaj6I-24" value="Приложение открыто" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-21">
-          <mxGeometry y="109" width="140" height="30" as="geometry" />
+        <mxCell id="cTLbplqrmGbM2UQjaj6I-24" value="Зарегистрировать пароль" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-21">
+          <mxGeometry y="99" width="140" height="41" as="geometry" />
         </mxCell>
         <mxCell id="cTLbplqrmGbM2UQjaj6I-25" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="cTLbplqrmGbM2UQjaj6I-26" target="cTLbplqrmGbM2UQjaj6I-30">
           <mxGeometry relative="1" as="geometry">
@@ -244,30 +246,30 @@
           <mxGeometry x="685" y="1006" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cTLbplqrmGbM2UQjaj6I-27" value="Запрос на ожидание" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-26">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cTLbplqrmGbM2UQjaj6I-28" value="Заказ отправлен на сборку" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-26">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        <mxCell id="cTLbplqrmGbM2UQjaj6I-28" value="Аккаунт зарегестрирован" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-26">
+          <mxGeometry y="50" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cTLbplqrmGbM2UQjaj6I-29" value="Заказ перешёл в ожидание" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-26">
+        <mxCell id="cTLbplqrmGbM2UQjaj6I-29" value="Высылание оповещения" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-26">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cTLbplqrmGbM2UQjaj6I-30" value="Оповещение клиента" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="685" y="1154" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cTLbplqrmGbM2UQjaj6I-31" value="Инициация сбора элементов заказа" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-30">
+        <mxCell id="cTLbplqrmGbM2UQjaj6I-31" value="Оповещение доставлено" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-30">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cTLbplqrmGbM2UQjaj6I-32" value="Сбор заказа" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-30">
+        <mxCell id="cTLbplqrmGbM2UQjaj6I-32" value="Ожидание прочтения клиентом" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-30">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cTLbplqrmGbM2UQjaj6I-33" value="Заказ собран" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-30">
+        <mxCell id="cTLbplqrmGbM2UQjaj6I-33" value="Заход в аккаунт" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cTLbplqrmGbM2UQjaj6I-30">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cTLbplqrmGbM2UQjaj6I-38" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="cTLbplqrmGbM2UQjaj6I-23" target="cTLbplqrmGbM2UQjaj6I-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="856" y="925" />
+              <mxPoint x="856" y="915" />
               <mxPoint x="856" y="989" />
               <mxPoint x="755" y="989" />
             </Array>
@@ -295,7 +297,7 @@
         <mxCell id="cTLbplqrmGbM2UQjaj6I-42" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="snMuEG4AN3tWTzpnFrul-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="759" />
+              <mxPoint x="850" y="754" />
               <mxPoint x="850" y="824" />
               <mxPoint x="749" y="824" />
             </Array>
