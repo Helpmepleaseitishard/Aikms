@@ -872,7 +872,7 @@
         <mxCell id="5yKea2AtyZZVEMtixmUV-34" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="5yKea2AtyZZVEMtixmUV-1" source="zfmuD7lt2aaN-TMQX17L-0" target="zfmuD7lt2aaN-TMQX17L-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-473" y="399" />
+              <mxPoint x="-473" y="393" />
               <mxPoint x="-473" y="425" />
               <mxPoint x="-574" y="425" />
             </Array>
@@ -936,26 +936,26 @@
             <mxPoint x="-179" y="716.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zfmuD7lt2aaN-TMQX17L-0" value="Инициация заказа" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
-          <mxGeometry x="-634" y="381" width="120" height="35" as="geometry" />
+        <mxCell id="zfmuD7lt2aaN-TMQX17L-0" value="Клиент инциализирует заказ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
+          <mxGeometry x="-634" y="369" width="120" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="zfmuD7lt2aaN-TMQX17L-1" value="Сборка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
-          <mxGeometry x="-387" y="441" width="120" height="35" as="geometry" />
+        <mxCell id="zfmuD7lt2aaN-TMQX17L-1" value="Работники начинают собирать заказ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
+          <mxGeometry x="-387" y="436.5" width="120" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="zfmuD7lt2aaN-TMQX17L-2" value="Ожидание сборки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
+        <mxCell id="zfmuD7lt2aaN-TMQX17L-2" value="Заказ переходит в режим ожидания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
           <mxGeometry x="-634" y="441" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zfmuD7lt2aaN-TMQX17L-4" value="Заказ в пути" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
+        <mxCell id="zfmuD7lt2aaN-TMQX17L-4" value="Кульер везёт заказ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
           <mxGeometry x="-131" y="531.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zfmuD7lt2aaN-TMQX17L-5" value="Заказ закрыт" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
+        <mxCell id="zfmuD7lt2aaN-TMQX17L-5" value="Курьер закрывает заказ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
           <mxGeometry x="-131" y="600" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zfmuD7lt2aaN-TMQX17L-6" value="Заказ отменён" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
+        <mxCell id="zfmuD7lt2aaN-TMQX17L-6" value="Работник закрывает заказ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
           <mxGeometry x="-393" y="666" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zfmuD7lt2aaN-TMQX17L-7" value="Ожидание оплаты" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
-          <mxGeometry x="-381" y="509" width="96" height="80" as="geometry" />
+        <mxCell id="zfmuD7lt2aaN-TMQX17L-7" value="Работник смотрит: оплачен ли заказ" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="5yKea2AtyZZVEMtixmUV-1">
+          <mxGeometry x="-410" y="509" width="154" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
