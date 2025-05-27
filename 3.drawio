@@ -659,7 +659,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NzzbunDQrZ0_SKvb0Dfa-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;The_order&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#EA6B66;" parent="1" vertex="1">
+        <mxCell id="NzzbunDQrZ0_SKvb0Dfa-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;The_client&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="220" y="293" width="144" height="385" as="geometry" />
         </mxCell>
         <mxCell id="NzzbunDQrZ0_SKvb0Dfa-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Support_Service&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#EA6B66;" parent="1" vertex="1">
@@ -684,7 +684,7 @@
         <mxCell id="pvhJ18OKB7BazOxGiVl6-44" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="jcgsNwGm0aqIQBOL0bYB-9" target="pvhJ18OKB7BazOxGiVl6-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="661" y="622" />
+              <mxPoint x="661" y="617" />
               <mxPoint x="661" y="658" />
             </Array>
             <mxPoint x="744" y="960" as="sourcePoint" />
@@ -733,7 +733,7 @@
         <mxCell id="pvhJ18OKB7BazOxGiVl6-35" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="jcgsNwGm0aqIQBOL0bYB-8" target="jcgsNwGm0aqIQBOL0bYB-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="658" y="546" />
+              <mxPoint x="658" y="542" />
               <mxPoint x="658" y="579" />
               <mxPoint x="586" y="579" />
             </Array>
@@ -750,26 +750,26 @@
             <mxPoint x="350" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jcgsNwGm0aqIQBOL0bYB-2" value="&lt;div&gt;Оценка&amp;nbsp;&lt;/div&gt;&lt;div&gt;работы&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="382" y="429.5" width="96" height="80" as="geometry" />
+        <mxCell id="jcgsNwGm0aqIQBOL0bYB-2" value="&lt;div&gt;Система&amp;nbsp;&lt;/div&gt;&lt;div&gt;проводит оценку &lt;br&gt;&lt;/div&gt;&lt;div&gt;работы&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="373.5" y="429.5" width="113" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jcgsNwGm0aqIQBOL0bYB-3" value="Выбор топлива" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="jcgsNwGm0aqIQBOL0bYB-3" value="Клиент выбрал топливо" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="226" y="391" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="jcgsNwGm0aqIQBOL0bYB-4" value="Заправка" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="jcgsNwGm0aqIQBOL0bYB-4" value="Клиент заправился" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="226" y="452" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="jcgsNwGm0aqIQBOL0bYB-6" value="Хороший отзыв" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="jcgsNwGm0aqIQBOL0bYB-6" value="Система оставила хороший отзыв" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="528" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="jcgsNwGm0aqIQBOL0bYB-7" value="Плохой отзыв" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="526" y="452" width="120" height="35" as="geometry" />
+        <mxCell id="jcgsNwGm0aqIQBOL0bYB-7" value="Техподдержка получила плохой отзыв" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="448" width="120" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="jcgsNwGm0aqIQBOL0bYB-8" value="Выяснение проблемы" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="526" y="528" width="120" height="35" as="geometry" />
+        <mxCell id="jcgsNwGm0aqIQBOL0bYB-8" value="Техподдержка выясненяет проблему" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="520" width="120" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="jcgsNwGm0aqIQBOL0bYB-9" value="Решение проблемы" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="526" y="604" width="120" height="35" as="geometry" />
+        <mxCell id="jcgsNwGm0aqIQBOL0bYB-9" value="Техподдержка привела решение проблемы" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="594" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
