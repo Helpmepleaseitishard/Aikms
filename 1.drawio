@@ -587,11 +587,11 @@
         <mxCell id="8IgXjdVSFUsxS5wFVr8H-23" value="Клиент" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="267" y="255" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8IgXjdVSFUsxS5wFVr8H-24" value="Работник станции" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="8IgXjdVSFUsxS5wFVr8H-24" value="Мастер" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="447" y="-15" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8IgXjdVSFUsxS5wFVr8H-25" value="Система управления" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="627" y="255" width="100" height="40" as="geometry" />
+        <mxCell id="8IgXjdVSFUsxS5wFVr8H-25" value="Система работы ресторана" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="625" y="255" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8IgXjdVSFUsxS5wFVr8H-26" value="" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;strokeWidth=2;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="8IgXjdVSFUsxS5wFVr8H-23" target="8IgXjdVSFUsxS5wFVr8H-24" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -605,28 +605,28 @@
             <mxPoint x="562" y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8IgXjdVSFUsxS5wFVr8H-28" value="1. Выбор типа топлива" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="8IgXjdVSFUsxS5wFVr8H-28" value="9. Оплата за блюдо" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="-0.1765" y="60" width="80" relative="1" as="geometry">
             <mxPoint x="317" y="205" as="sourcePoint" />
             <mxPoint x="397" y="55" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8IgXjdVSFUsxS5wFVr8H-29" value="2. Инициация процесса заправки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="8IgXjdVSFUsxS5wFVr8H-29" value="10. Передать оплату за блюдо" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="0.367" y="82" width="80" relative="1" as="geometry">
             <mxPoint x="597" y="65" as="sourcePoint" />
             <mxPoint x="667" y="195" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8IgXjdVSFUsxS5wFVr8H-30" value="&lt;div&gt;3. Возврат&amp;nbsp;&lt;/div&gt;&lt;div&gt;стоимости&lt;/div&gt;&lt;div&gt;&amp;nbsp;заправки&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
-          <mxGeometry x="0.1743" y="56" width="80" relative="1" as="geometry">
+        <mxCell id="8IgXjdVSFUsxS5wFVr8H-30" value="&lt;div&gt;11. Подтверждение&amp;nbsp;&lt;/div&gt;&lt;div&gt;успешной&amp;nbsp;&lt;/div&gt;&lt;div&gt;оплаты&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
+          <mxGeometry x="-0.5908" y="67" width="80" relative="1" as="geometry">
             <mxPoint x="637" y="205" as="sourcePoint" />
             <mxPoint x="567" y="75" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8IgXjdVSFUsxS5wFVr8H-31" value="&lt;div&gt;4. Сообщение о&lt;/div&gt;&lt;div&gt;&amp;nbsp;стоимости&amp;nbsp;&lt;/div&gt;&lt;div&gt;заправки&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="8IgXjdVSFUsxS5wFVr8H-31" value="&lt;div&gt;12. Завершение&amp;nbsp;&lt;/div&gt;&lt;div&gt;оплаты&amp;nbsp;&lt;/div&gt;&lt;div&gt;выбранного меню&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="0.0286" y="63" width="80" relative="1" as="geometry">
             <mxPoint x="437" y="75" as="sourcePoint" />
             <mxPoint x="367" y="215" as="targetPoint" />
