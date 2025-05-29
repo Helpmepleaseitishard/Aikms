@@ -296,7 +296,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uVbfZZZV9O5Ne16KS7oI" name="Page-2">
-    <mxGraphModel dx="904" dy="1181" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="703" dy="1181" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -424,7 +424,7 @@
         <mxCell id="8IgXjdVSFUsxS5wFVr8H-11" value="Клиент" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="877" y="-345" width="100" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="8IgXjdVSFUsxS5wFVr8H-11">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="8IgXjdVSFUsxS5wFVr8H-11" vertex="1">
           <mxGeometry x="45" y="76" width="10" height="358" as="geometry" />
         </mxCell>
         <mxCell id="8IgXjdVSFUsxS5wFVr8H-13" value="Фармацевт" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="1" vertex="1">
@@ -439,7 +439,7 @@
         <mxCell id="8IgXjdVSFUsxS5wFVr8H-23" value="Клиент" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="267" y="255" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8IgXjdVSFUsxS5wFVr8H-24" value="Работник станции" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="8IgXjdVSFUsxS5wFVr8H-24" value="Фармацевт" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="447" y="-15" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8IgXjdVSFUsxS5wFVr8H-25" value="Система управления" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
@@ -457,28 +457,28 @@
             <mxPoint x="562" y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8IgXjdVSFUsxS5wFVr8H-28" value="1. Выбор типа топлива" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="8IgXjdVSFUsxS5wFVr8H-28" value="9. Оплата за лекарство" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="-0.1765" y="60" width="80" relative="1" as="geometry">
             <mxPoint x="317" y="205" as="sourcePoint" />
             <mxPoint x="397" y="55" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8IgXjdVSFUsxS5wFVr8H-29" value="2. Инициация процесса заправки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="8IgXjdVSFUsxS5wFVr8H-29" value="10. Передать оплату за лекарство" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="0.367" y="82" width="80" relative="1" as="geometry">
             <mxPoint x="597" y="65" as="sourcePoint" />
             <mxPoint x="667" y="195" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8IgXjdVSFUsxS5wFVr8H-30" value="&lt;div&gt;3. Возврат&amp;nbsp;&lt;/div&gt;&lt;div&gt;стоимости&lt;/div&gt;&lt;div&gt;&amp;nbsp;заправки&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
-          <mxGeometry x="0.1743" y="56" width="80" relative="1" as="geometry">
+        <mxCell id="8IgXjdVSFUsxS5wFVr8H-30" value="&lt;div&gt;11. Подтверждение&amp;nbsp;&lt;/div&gt;&lt;div&gt;успешной&amp;nbsp;&lt;/div&gt;&lt;div&gt;оплаты&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
+          <mxGeometry x="-0.5358" y="68" width="80" relative="1" as="geometry">
             <mxPoint x="637" y="205" as="sourcePoint" />
             <mxPoint x="567" y="75" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8IgXjdVSFUsxS5wFVr8H-31" value="&lt;div&gt;4. Сообщение о&lt;/div&gt;&lt;div&gt;&amp;nbsp;стоимости&amp;nbsp;&lt;/div&gt;&lt;div&gt;заправки&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
+        <mxCell id="8IgXjdVSFUsxS5wFVr8H-31" value="&lt;div&gt;12. Завершение&amp;nbsp;&lt;/div&gt;&lt;div&gt;процесса&amp;nbsp;&lt;/div&gt;&lt;div&gt;оплата&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;startFill=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="0.0286" y="63" width="80" relative="1" as="geometry">
             <mxPoint x="437" y="75" as="sourcePoint" />
             <mxPoint x="367" y="215" as="targetPoint" />
@@ -488,10 +488,10 @@
         <mxCell id="8IgXjdVSFUsxS5wFVr8H-32" value="Диаграмма коммуникации №1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="197" y="-35" width="640" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1151" y="-255" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--22" value="13. Обновление &lt;br&gt;базы данных &lt;br&gt;о транзакциях" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="JODt8s6B2DUVoNRCD-n--23" target="JODt8s6B2DUVoNRCD-n--23">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--22" value="13. Обновление &lt;br&gt;базы данных &lt;br&gt;о транзакциях" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" parent="1" source="JODt8s6B2DUVoNRCD-n--23" target="JODt8s6B2DUVoNRCD-n--23" edge="1">
           <mxGeometry x="0.5101" y="-50" width="80" relative="1" as="geometry">
             <mxPoint x="1386" y="25" as="sourcePoint" />
             <mxPoint x="1391" y="40" as="targetPoint" />
@@ -505,16 +505,16 @@
             <mxPoint x="50" y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1381" y="45" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1151" y="-45" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1381" y="-45" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--26" value="9. Оплата за лекарство" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" edge="1" parent="1" target="JODt8s6B2DUVoNRCD-n--24">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--26" value="9. Оплата за лекарство" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="1" target="JODt8s6B2DUVoNRCD-n--24" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="931" y="-35" as="sourcePoint" />
             <mxPoint x="1136" y="-35" as="targetPoint" />
@@ -524,7 +524,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--27" value="11. Подтверждение успешной оплаты" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--27" value="11. Подтверждение успешной оплаты" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1381" y="-15" as="sourcePoint" />
             <mxPoint x="1161" y="-15" as="targetPoint" />
@@ -532,7 +532,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--28" value="12. Завершение процесса оплата" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" edge="1" parent="1" source="JODt8s6B2DUVoNRCD-n--24">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--28" value="12. Завершение процесса оплата" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" parent="1" source="JODt8s6B2DUVoNRCD-n--24" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1391" y="-15" as="sourcePoint" />
             <mxPoint x="931" y="-15" as="targetPoint" />
@@ -542,7 +542,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--30" value="10. Передать оплату за лекарство" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" edge="1" parent="1" source="JODt8s6B2DUVoNRCD-n--24" target="JODt8s6B2DUVoNRCD-n--25">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--30" value="10. Передать оплату за лекарство" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="1" source="JODt8s6B2DUVoNRCD-n--24" target="JODt8s6B2DUVoNRCD-n--25" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1156" y="-35" as="sourcePoint" />
             <mxPoint x="1376" y="-35" as="targetPoint" />
@@ -552,13 +552,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1151" y="-185" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1381" y="-185" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--33" value="5. Запрос стоимости продукта" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" edge="1" parent="1" source="JODt8s6B2DUVoNRCD-n--32" target="JODt8s6B2DUVoNRCD-n--31">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--33" value="5. Запрос стоимости продукта" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" parent="1" source="JODt8s6B2DUVoNRCD-n--32" target="JODt8s6B2DUVoNRCD-n--31" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1376" y="-170.5" as="sourcePoint" />
             <mxPoint x="1156" y="-170.5" as="targetPoint" />
@@ -568,7 +568,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--34" value="6. Возврат стоимости продукта" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;endFill=1;" edge="1" parent="1" source="JODt8s6B2DUVoNRCD-n--31" target="JODt8s6B2DUVoNRCD-n--32">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--34" value="6. Возврат стоимости продукта" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;endFill=1;" parent="1" source="JODt8s6B2DUVoNRCD-n--31" target="JODt8s6B2DUVoNRCD-n--32" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1351" y="-50.5" as="sourcePoint" />
             <mxPoint x="1141" y="-50.5" as="targetPoint" />
@@ -578,7 +578,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--35" value="7. Сообщение о стоимости продукта" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" edge="1" parent="1" source="JODt8s6B2DUVoNRCD-n--32" target="JODt8s6B2DUVoNRCD-n--31">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--35" value="7. Сообщение о стоимости продукта" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" parent="1" source="JODt8s6B2DUVoNRCD-n--32" target="JODt8s6B2DUVoNRCD-n--31" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1161" y="-40.5" as="sourcePoint" />
             <mxPoint x="1381" y="-40.5" as="targetPoint" />
@@ -588,7 +588,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--36" value="1. Запрос доступных продуктов аптек" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--36" value="1. Запрос доступных продуктов аптек" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="931" y="-255" as="sourcePoint" />
             <mxPoint x="1151" y="-255" as="targetPoint" />
@@ -596,7 +596,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--37" value="2. Возврат доступных продуктов аптек" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--37" value="2. Возврат доступных продуктов аптек" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1155" y="-225" as="sourcePoint" />
             <mxPoint x="931" y="-225" as="targetPoint" />
@@ -606,7 +606,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--38" value="3. Выбор продуктов аптеки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--38" value="3. Выбор продуктов аптеки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="931" y="-185" as="sourcePoint" />
             <mxPoint x="1151" y="-185" as="targetPoint" />
@@ -616,7 +616,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--39" value="8. Сообщение о стоимости продукта" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;endFill=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--39" value="8. Сообщение о стоимости продукта" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;endFill=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1151" y="-95.87" as="sourcePoint" />
             <mxPoint x="931" y="-95.87" as="targetPoint" />
@@ -626,7 +626,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JODt8s6B2DUVoNRCD-n--40" value="4. Инициация покупки нужного продукта" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JODt8s6B2DUVoNRCD-n--40" value="4. Инициация покупки нужного продукта" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1161" y="-185" as="sourcePoint" />
             <mxPoint x="1380.9999999999998" y="-185" as="targetPoint" />
@@ -640,7 +640,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yAZ8D3PN9nSXLNmpfzAs" name="Page-3">
-    <mxGraphModel dx="1754" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
