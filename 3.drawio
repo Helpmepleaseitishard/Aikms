@@ -859,7 +859,7 @@
           <mxGeometry x="-464" y="282" width="281" height="543" as="geometry" />
         </mxCell>
         <mxCell id="5yKea2AtyZZVEMtixmUV-27" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#67AB9F;" parent="5yKea2AtyZZVEMtixmUV-1" vertex="1">
-          <mxGeometry x="-348" y="770" width="30" height="30" as="geometry" />
+          <mxGeometry x="-342" y="770" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5yKea2AtyZZVEMtixmUV-28" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="5yKea2AtyZZVEMtixmUV-1" source="5yKea2AtyZZVEMtixmUV-29" target="zfmuD7lt2aaN-TMQX17L-0" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -944,12 +944,12 @@
           <mxGeometry x="-131" y="600" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="zfmuD7lt2aaN-TMQX17L-6" value="Система закрывает заказ" style="rounded=1;whiteSpace=wrap;html=1;" parent="5yKea2AtyZZVEMtixmUV-1" vertex="1">
-          <mxGeometry x="-393" y="602" width="120" height="35" as="geometry" />
+          <mxGeometry x="-389" y="603" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="qO1kUjBYkTfkalX94-Xq-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="5yKea2AtyZZVEMtixmUV-1" source="zfmuD7lt2aaN-TMQX17L-7" target="zfmuD7lt2aaN-TMQX17L-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zfmuD7lt2aaN-TMQX17L-7" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="5yKea2AtyZZVEMtixmUV-1" vertex="1">
+        <mxCell id="zfmuD7lt2aaN-TMQX17L-7" value="Система смотрит: оплачен ли заказ" style="rhombus;whiteSpace=wrap;html=1;" parent="5yKea2AtyZZVEMtixmUV-1" vertex="1">
           <mxGeometry x="-410" y="509" width="154" height="80" as="geometry" />
         </mxCell>
       </root>
