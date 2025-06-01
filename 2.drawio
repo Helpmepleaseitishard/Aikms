@@ -190,9 +190,9 @@
             <mxPoint x="1530" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QgWzjLSHat5g8UPZbIZB-1" value="Событие 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="yRZFacHZC7VNnUp93jjn-14" vertex="1" connectable="0">
+        <mxCell id="QgWzjLSHat5g8UPZbIZB-1" value="Работа прошла хорошо" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="yRZFacHZC7VNnUp93jjn-14" vertex="1" connectable="0">
           <mxGeometry x="0.0344" y="-5" relative="1" as="geometry">
-            <mxPoint x="-441" y="-15" as="offset" />
+            <mxPoint x="-411" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yRZFacHZC7VNnUp93jjn-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
@@ -227,7 +227,7 @@
         <mxCell id="yRZFacHZC7VNnUp93jjn-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1405" y="840" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yRZFacHZC7VNnUp93jjn-21" value="20. Связь с клиентом для исправления проблемы" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;endFill=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="yRZFacHZC7VNnUp93jjn-21" value="21. Связь с клиентом для исправления проблемы" style="html=1;verticalAlign=top;endArrow=open;curved=0;rounded=0;strokeWidth=2;endFill=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1405" y="920" as="sourcePoint" />
             <mxPoint x="725" y="920.0000000000002" as="targetPoint" />
@@ -237,7 +237,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRZFacHZC7VNnUp93jjn-22" value="18. Уточнение проблемы" style="html=1;verticalAlign=top;endArrow=block;curved=0;rounded=0;strokeWidth=2;endFill=1;" parent="1" edge="1">
+        <mxCell id="yRZFacHZC7VNnUp93jjn-22" value="19. Уточнение проблемы" style="html=1;verticalAlign=top;endArrow=block;curved=0;rounded=0;strokeWidth=2;endFill=1;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1405" y="840" as="sourcePoint" />
             <mxPoint x="1185" y="840" as="targetPoint" />
@@ -247,7 +247,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRZFacHZC7VNnUp93jjn-23" value="19. Подтверждение проблемы" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" parent="1" edge="1">
+        <mxCell id="yRZFacHZC7VNnUp93jjn-23" value="20. Подтверждение проблемы" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;strokeWidth=2;dashed=1;endFill=0;" parent="1" edge="1">
           <mxGeometry x="-0.0455" width="80" relative="1" as="geometry">
             <mxPoint x="1185" y="899" as="sourcePoint" />
             <mxPoint x="1405" y="899" as="targetPoint" />
@@ -255,8 +255,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QgWzjLSHat5g8UPZbIZB-2" value="Событие 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="650" y="680" as="geometry">
+        <mxCell id="QgWzjLSHat5g8UPZbIZB-2" value="Работа прошла плохо" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="680" y="680" as="geometry">
             <mxPoint x="-12" y="109" as="offset" />
           </mxGeometry>
         </mxCell>
